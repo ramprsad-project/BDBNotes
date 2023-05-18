@@ -11,3 +11,7 @@
                 "id": "8975abbd-729a-4458-9dff-a66cdde94515"
             },
  ----------------------------------------------------------------------------
+# Event::Endpoint::WebControlViolation
+In Event_Action_Detail Table:
+Class column can be filled with **Event::Endpoint**
+Type can be filled with **WebControlViolation**
