@@ -1,7 +1,7 @@
 # BDBNotes
 
 # How to get Users ID
- Here the AssociatePerson "id" is the User Id.
+ Here is the AssociatePerson "id" is the User Id.
  ---------------------------------------------------------------------------
  API URL:https://api-us01.central.sophos.com/endpoint/v1/endpoints
 
